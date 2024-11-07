@@ -34,7 +34,7 @@ Die ersten Bücher werden in verschiedenen Übersetzungen lesen. Hierfür werde 
 ## Zuordnung und Prüfungsleistungen
 
 * PHF-phil-BA2 (Geschichte der Philosophie – Antike)
-  - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Montag, 18 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls im OLAT-Ordner 
+  - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Dienstag, 18 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls im OLAT-Ordner 
 
 * PHF-phil-BA3 (Einführung in die theoretische Philosophie)
   - Take-Home-Klausur im Umfang von 5-6 Seiten. Die Aufgabenstellung erfolgt in der letzten Sitzung. Abgabe: 31.03.2025
