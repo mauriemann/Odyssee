@@ -239,3 +239,132 @@ Wolfgang Schadewaldt: von Homers Welt und Werk. Stuttgart 1951
 >ἤσθιον: αὐτὰρ ὁ τοῖσιν ἀφείλετο νόστιμον ἦμαρ.
 >
 >τῶν ἁμόθεν γε, θεά, θύγατερ Διός, εἰπὲ καὶ ἡμῖν.
+
+
+## 2. Sitzung am 7.11.2024
+
+Gesänge I-II
+
+
+### Protokoll Cedric A. Smerling
+
+
+**Einleitung und Ziel der Sitzung**
+
+
+Die Sitzung begann mit einer Einführung in den ersten und zweiten Gesang der Odyssee,
+auch bekannt als „Telemachie“. Ein erstes Ziel der Sitzung sollte sein, zentrale Figuren und
+Themen der Geschichte zu identifizieren und die komplexe Struktur der Beziehungen
+zwischen den Sterblichen und den Unsterblichen zu verstehen. Um dies zu bewerkstelligen,
+leitet die Seminarleitung eine etwa 30-minütige Kleingruppenarbeitsphase ein, in der die
+Seminarteilnehmer die Aufgabe hatten, die vorgestellten Figuren des Epos, die Reihenfolge
+in der sie vorgestellt worden sind und deren Rolle innerhalb der Erzählung herauszuarbeiten.
+
+
+**Historischer Kontext und Ausgangspunkt**
+
+
+Bevor die Arbeitsphase begann, wurde der historische Ausgangspunkt im Plenum erläutert:
+Die Handlung der Odyssee beginnt etwa zehn Jahre nach dem Ende des Trojanischen
+Krieges. Odysseus ist seitdem verschollen und im Krieg wurden viele Verluste verzeichnet,
+was in Ithaka und vor allem bei Odysseus Frau und seinem Sohn zu Unsicherheiten führt.
+Freier belagern das Haus von Odysseus und bedrängen seine Frau Penelope während seiner
+langen Abwesenheit und es herrscht allgemein Chaos und Anspannung in Ithaka. Sein Sohn
+Telemachos sieht sich demnach gezwungen, loszuziehen und den Verbleib seines Vater zu
+ergründen, um der Unruhe ein Ende zu bereiten und sein Haus zu retten.
+
+
+**Vorstellung der Figuren und Beziehungen**
+
+
+Im Anschluss an die Kleingruppenarbeitsphase erstellte die Seminarleitung zusammen mit
+den Teilnehmern ein Tafelbild mit der Überschrift „Cast in order of appearance”. Dabei
+wurden die Figuren und ihre erste Erwähnung anhand von Versen der ersten beiden Gesänge
+erarbeitet. Eine Vielzahl von sowohl göttlichen als auch menschlichen Figuren wurde
+vorgestellt, wovon im Folgenden einige bedeutsame genannt werden:
+
+
+* Muse (ab Vers 1): Als Tochter von Zeus und Inspiration für den Erzähler der Geschichte.
+* Odysseus (ab Vers 1, bzw. Vers 20): Ein Mann von großer Wandlungsfähigkeit und im Zentrum der Erzählung.
+* Athene (ab Vers 44): Sie wird als Beschützerin von Odysseus dargestellt und spielt eine wichtige Rolle als seine Fürsprecherin.
+* Poseidon (ab Vers 20): Als Gegenspieler zu Odysseus. Im Laufe der Geschichte soll sich ein persönlicher Konflikt zwischen ihm und Odysseus entwickeln.
+* Telemachos (ab Vers 113): Der Sohn von Odysseus, der in Ithaka gegen die Freier vorgeht und selbst zur Heldenfigur heranwachsen soll.
+* Penelopeia (ab Vers 223): Die Frau von Odysseus, die in seiner Abwesenheit die Freier mit einer List hinhält, um Zeit zu gewinnen.
+
+Weitere wichtige Figuren wie zum Beispiel die Nymphe Kalypso, der Göttervater Zeus, der
+Götterbote Hermes und die Freier Antinoos und Eurymachos wurden ebenfalls genannt in die
+Liste aufgenommen und in ihrer jeweiligen Funktion besprochen.
+
+
+**Thematische Diskussion**
+
+
+Im folgenden Teil der Seminarsitzung wurden zentrale Aspekte der ersten beiden Gesänge
+der Odyssee im Plenum ermittelt, indem die Seminarleitung Fragen zu bestimmten Figuren
+und den Beziehungen zueinander stellte. Die Figuren und ihre Beziehungen wurden
+gemeinsam diskutiert, um Klarheit darüber zu schaffen, wie diese in Verbindung zueinander
+stehen und welche Rolle sie im Epos innehaben.
+
+
+**Die Götter und ihre Rolle**
+
+
+Athene tritt, wie schon im Tafelbild genannt, als Fürsprecherin von Odysseus auf und bewegt
+Zeus dazu, die Heimkehr von Odysseus zu unterstützen indem Zeus die Ratsversammlung
+der Götter einberuft um den Fall rund um das Verschwinden von Odysseus zu besprechen.
+Sie erscheint in der Gestalt von Mentes, einem alten Freund, und rät Telemachos, sich auf die
+Suche nach seinem Vater zu machen. Dabei sticht hervor, dass die Götter im Allgemeinen
+eine hohe Meinung von Odysseus haben und ihm wohlgesinnt scheinen, da sie ihn des
+Öfteren als “göttergleich” bezeichnen. Lediglich die Beziehung zwischen Odysseus und
+Poseidon bleibt im Kontrast dazu angespannt. Die Rolle der Götter wird hier als eine der
+aktiven Intervention und Lenkung dargestellt, während gleichzeitig die Menschen teilweise
+hilflos ihrem Schicksal ausgeliefert sind und den Folgen des Krieges und der Belagerung von
+Ithaka ausgesetzt sind.
+
+
+**Das Verhältnis zwischen Odysseus und Poseidon**
+
+
+Der Konflikt zwischen Odysseus und Poseidon wurde ebenfalls als zentraler Aspekt
+hervorgehoben. Poseidon hegt einen Groll gegen Odysseus, da dieser seinen Sohn, den
+Kyklopen Polyphem, blendete. Poseidon ist zudem bekannt als „Städtezerstörer“ und teilt
+diesen Titel ironischerweise mit Odysseus, was ihre gegensätzliche, aber doch ähnliche Rolle
+im Epos unterstreicht.
+
+
+**Telemachos’ Wandlung**
+
+
+Ein weiteres zentrales Thema war der Beginn der charakterlichen Entwicklung von
+Telemachos. Er wird als unerfahrener junger Mann in die Geschichte eingeführt, entwickelt
+sich jedoch im Laufe des Geschehens zu einem entschlossenen Erben seines Vaters. Er tritt
+öffentlich gegen die Freier in Ithaka auf und verkündet seine Absicht, nach Pylos und Sparta
+zu reisen, um dem Verbleiben seines Vaters auf den Grund zu gehen. Dieser erste Schritt in
+die Souveränität wird von Athene unterstützt und begleitet, was ebenfalls die gute Beziehung
+zwischen Athene, Odysseus und Telemachos unterstreicht.[1]
+
+**Darstellung und Rolle der Penelopeia**
+
+
+Penelopeia, die Frau von Odysseus, wird als listige, geschickte und treue Gattin beschrieben.
+Sie nutzt verschiedene Mittel, um die Freier hinzuhalten, und zeigt damit ihre Klugheit und
+Stärke. Ihre Darstellung verdeutlicht allerdings auch das antike Frauenbild, da sie oft passiv
+und als Besitz behandelt wird. Dennoch wirkt sie dem Chaos auf Ithaka entgegen, indem sie
+die Ordnung durch ihre List bewahrt.[1]
+
+
+**Abschließende Diskussion und Ausblick**
+
+
+Am Ende der Sitzung wurde auf wiederkehrende Motive wie Treue, Loyalität und die Macht
+der List hingewiesen. Der Abschied von Telemachos aus Ithaka und sein Entschluss, nach
+seinem Vater zu suchen, markieren den Abschluss des zweiten Gesangs. Für die kommende
+Sitzung wurde die Aufgabe gegeben, zu analysieren, wie Telemachos bei Menelaos
+empfangen wird und wie verschiedene Figuren den Trojanischen Krieg retrospektiv
+darstellen.
+
+
+Literaturnachweis:
+Homer (1958). Odyssee - Gesang Eins & Zwei - Übersetzung von W. Schadewaldt.
+Rowohlt Taschenbuch Verlag
+3
