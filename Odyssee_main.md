@@ -1352,3 +1352,62 @@ Gesänge 13 & 14
 https://studfeedback.uni-kiel.de/evasys/online.php?pswd=L39YZ 
 
 ![QR-Code](QRCode_L39YZ.png)
+
+
+## Sitzung am 6.2.2025
+
+### Take Home Klausur (Modul BA 3)
+
+
+Christian-Albrechts-Universität zu Kiel
+
+Philosophisches Seminar
+
+Wintersemester 2024/2025
+
+Seminar: Homer: Odyssee
+
+E-mail: riemann@philsem.uni-kiel.de
+
+
+**Hinweise zur Bearbeitung**
+
+1) Bitte beachten Sie die formalen Vorgaben für schriftliche Arbeiten im Fach Philosophie.
+
+2) Bitte benutzen Sie für die Titelseite die entsprechende Vorlage (als Download auf der Instituts-Website).
+
+3) Sämtliche verwendete Quellen sind eindeutig und einheitlich bibliographisch nachzuweisen. Arbeiten Sie mit Forschungsliteratur.
+
+4) Die Klausur ist selbständig zu verfassen. Die Verwendung von Large Language Models / Textgenerierenden AI-Sprachmodellen wie ChatGPT ist nicht zulässig. Die entsprechende eidesstattliche Erklärung (Vorlage ebenfalls auf der Instituts-Website) ist zu verwenden.
+
+5) Abgabetermin ist der 31.03.2025. Eine Verlängerung der Abgabefrist ist ausgeschlossen. Die Abgabe erfolgt ausgedruckt an der Hauptpforte oder im Abgabekasten im Erdgeschoss der LS 4. Keine Abgabe per Email!
+
+
+**Aufgabenstellung**
+
+Bitte wählen Sie aus den folgenden Fragen zwei aus und beantworten diese auf insgesamt
+5-6 Seiten (zzgl. Deckblatt und Literaturverzeichnis)
+
+1. Analysieren Sie das Verhältnis von Göttern und Menschen unter Berücksichtigung des antiken Menschenbildes und der Willensfreiheit. (2-3 Seiten)
+
+2. Wagen Sie einen Versuch über die Geschlechterverhältnisse in der Odyssee. (2-3 Seiten)
+
+3. Erörtern Sie die Rolle und Darstellung der Gastfreundschaft in der Odyssee. (2-3 Seiten)
+
+4. Vergleichen Sie die Jenseitsvorstellungen im 11. und 24. Gesang. (2-3 Seiten)
+
+5. Erläutern Sie die Ebenen von Odysseus‘ Identität und setzen Sie diese in ein Verhältnis zum Topos der Heimkehr. (2-3 Seiten)
+
+6. Diskutieren Sie das Verhältnis von Rache und Gerechtigkeit. (2-3 Seiten)
+
+
+**Viel Erfolg und fröhliche Wissenschaft!**
+
+
+## Hinweise zur Hausarbeit
+
+Hinweise zur Gestaltung von Hausarbeiten unter diesem [Link](https://liascript.github.io/course/?https://raw.githubusercontent.com/Philosophie-Lehre-Moritz-Riemann/Hausarbeit/refs/heads/main/Hausarbeit_main.md)
+
+Abgabe der Hausarbeiten:
+
+**15.04.2025**
